@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3620-network-recovery-pathways](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3620-network-recovery-pathways](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
