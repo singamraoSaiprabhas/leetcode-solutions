@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Depth-First Search
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
