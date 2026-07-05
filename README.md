@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Depth-First Search
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
