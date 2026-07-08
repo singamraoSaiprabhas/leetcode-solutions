@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0061-rotate-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
