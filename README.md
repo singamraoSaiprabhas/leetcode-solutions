@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
