@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3527-find-the-most-common-response](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
+| [3527-find-the-most-common-response](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [3527-find-the-most-common-response](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -130,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
+| [3527-find-the-most-common-response](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 <!---LeetCode Topics End-->
