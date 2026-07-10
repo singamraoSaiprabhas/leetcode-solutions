@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
