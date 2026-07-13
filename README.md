@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [3527-find-the-most-common-response](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
