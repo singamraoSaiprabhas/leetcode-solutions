@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0263-ugly-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
