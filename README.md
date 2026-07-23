@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [3620-network-recovery-pathways](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
