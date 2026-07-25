@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
