@@ -231,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
