@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0182-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
