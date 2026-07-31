@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0051-n-queens) |
 ## Counting Sort
 |  |
 | ------- |
