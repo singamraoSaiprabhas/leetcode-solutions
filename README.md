@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0525-contiguous-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Database
 |  |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
