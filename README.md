@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1260-shift-2d-grid](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
