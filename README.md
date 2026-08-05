@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0908-smallest-range-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
