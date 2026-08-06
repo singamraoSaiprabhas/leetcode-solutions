@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Indexed Tree
 |  |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
