@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Backtracking
 |  |
 | ------- |
