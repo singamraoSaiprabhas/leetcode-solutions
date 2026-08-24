@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Greedy
@@ -422,12 +427,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
