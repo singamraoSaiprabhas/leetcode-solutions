@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
 | [0917-reverse-only-letters](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
