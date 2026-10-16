@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Indexed Tree
