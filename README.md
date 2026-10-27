@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
