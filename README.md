@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0179-largest-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/singamraoSaiprabhas/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
